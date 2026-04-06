@@ -36,8 +36,8 @@ This end-to-end pipeline automates the identification of high-risk talent and qu
 | **Revenue At Risk** | **$2,450,000** | Immediate exposure identified in test sample |
 
 ## Program OUTPUT
-### VIEW GRAPH
-https://github.com/MuhammadHuzaifaGohar/IBM-HR-Analytics-Attrition-Dataset-Predictive-Retention-Financial-Risk/blob/main/IMAGE_OF_Report.png
+### [View: Predicting the "2-Year Cliff": Survival Analytics & Financial ROI Mapping](https://github.com/MuhammadHuzaifaGohar/IBM-HR-Analytics-Attrition-Dataset-Predictive-Retention-Financial-Risk/blob/main/ibm-hr-survival-analytics-financial-roi-mapping.ipynb) 
+
 ### --- HR STRATEGIC SUMMARY ---
  Average Employee Tenure: 7.0 years
  Current Financial Loss from Attrition: $20,421,738.00
