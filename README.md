@@ -35,6 +35,20 @@ This end-to-end pipeline automates the identification of high-risk talent and qu
 | **Recall (At-Risk)** | 84% | Identifies most employees before they resign |
 | **Revenue At Risk** | **$2,450,000** | Immediate exposure identified in test sample |
 
+## Program OUTPUT
+### VIEW GRAPH
+https://github.com/MuhammadHuzaifaGohar/IBM-HR-Analytics-Attrition-Dataset-Predictive-Retention-Financial-Risk/blob/main/IMAGE_OF_Report.png
+### --- HR STRATEGIC SUMMARY ---
+ Average Employee Tenure: 7.0 years
+ Current Financial Loss from Attrition: $20,421,738.00
+ 
+------------------------------
+
+### --- CEO EXECUTIVE ALERT ---
+High-Risk Employees Identified: 0
+Revenue at Risk (Next 6 Months): $0.00
+Recommendation: Targeted retention bonuses for high-impact roles.
+
 ### 2. Top 3 Attrition Drivers
 * **Overtime:** Employees working high overtime are 3x more likely to leave.
 * **Stock Options:** Lack of equity is the primary driver for mid-level engineering churn.
@@ -52,7 +66,6 @@ Ensure you have Python 3.10+ installed. Install dependencies via:
 pip install -r requirements.txt
 ### RUN
 python main_analysis.py
-
 
 # Project Structure
 
