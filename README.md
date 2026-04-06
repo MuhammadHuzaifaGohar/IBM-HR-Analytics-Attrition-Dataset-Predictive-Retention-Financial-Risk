@@ -1,5 +1,4 @@
 # IBM-HR-Analytics-Attrition-Dataset-Predictive-Retention-Financial-Risk
-# 📊 Strategic Workforce Analytics: Predictive Retention & Financial Risk
 > **Predicting employee flight risk to protect company ROI using the IBM HR Analytics Dataset.**
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -9,14 +8,14 @@
 
 ---
 
-## 🎯 The "Executive" Problem
+## The "Executive" Problem
 Employee turnover is a silent profit killer. Replacing a high-performing employee in 2026 costs an average of **1.8x their annual salary** due to recruitment, lost productivity, and knowledge gaps. 
 
 **This project moves HR from "Why did they leave?" to "Who is leaving next, and how much will it cost us?"**
 
 ---
 
-## 🚀 Project Scope & Architecture
+##  Project Scope & Architecture
 This end-to-end pipeline automates the identification of high-risk talent and quantifies the financial exposure for leadership.
 
 ### The Workflow
@@ -45,22 +44,22 @@ This end-to-end pipeline automates the identification of high-risk talent and qu
 
 ---
 
-## 🛠️ Execution & Setup
+## Execution & Setup
 
 ### Requirements
 Ensure you have Python 3.10+ installed. Install dependencies via:
 ```bash
 pip install -r requirements.txt
+### RUN
+python app.py
 
 
 # Project Structure
 
-├── HR_Attrition_Data.csv    # Dataset source
-├── models/
-│   └── rf_retention_model.pkl   # Trained serialized model
 ├── scripts/
 │   ├── data_cleaning.py         # Preprocessing & Encoding
 │   └── finance_mapper.py        # ROI & Cost calculations
-├── app.py             # Main execution script
+├── main_analysis.py             # Main execution script
+├── export_results.py
 └── README.md
-├── requirements.txt
+└── LISENCE.txt
