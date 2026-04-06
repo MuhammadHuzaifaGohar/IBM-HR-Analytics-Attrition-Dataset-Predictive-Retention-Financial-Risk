@@ -51,7 +51,7 @@ Ensure you have Python 3.10+ installed. Install dependencies via:
 ```bash
 pip install -r requirements.txt
 ### RUN
-python app.py
+python main_analysis.py
 
 
 # Project Structure
