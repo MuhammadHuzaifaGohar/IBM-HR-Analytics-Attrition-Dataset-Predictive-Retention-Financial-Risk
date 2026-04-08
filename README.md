@@ -12,6 +12,7 @@
 Employee turnover is a silent profit killer. Replacing a high-performing employee in 2026 costs an average of **1.8x their annual salary** due to recruitment, lost productivity, and knowledge gaps. 
 
 **This project moves HR from "Why did they leave?" to "Who is leaving next, and how much will it cost us?"**
+<img width="1200" height="600" alt="IMAGE_OF_Report" src="https://github.com/user-attachments/assets/0e63e52f-a1c6-4364-b8bb-852cf7aad0be" />
 
 ---
 
